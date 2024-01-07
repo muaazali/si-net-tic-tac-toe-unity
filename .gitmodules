@@ -1,0 +1,3 @@
+[submodule "Assets/si-net"]
+	path = Assets/si-net
+	url = https://github.com/muaazali/si-net.git
